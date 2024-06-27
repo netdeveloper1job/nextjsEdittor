@@ -9,12 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ckeditor/ckeditor5-react": "^8.0.0",
+    "@lexical/react": "^0.16.0",
+    "ckeditor5": "^42.0.0",
+    "ckeditor5-build-classic": "^1.0.0",
+    "ckeditor5-premium-features": "^42.0.0",
+    "lexical": "^0.16.0",
+    "next": "14.2.4",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.4"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "postcss": "^8",
-    "tailwindcss": "^3.4.1"
+    "tailwindcss": "^3.4.4"
   }
 }
